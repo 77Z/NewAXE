@@ -1,0 +1,12 @@
+.slider {
+	height: 25px;
+	display: block;
+}
+
+.horizontalSlider {
+	background: red;
+}
+
+.verticalSlider {
+	background: blue;
+}
